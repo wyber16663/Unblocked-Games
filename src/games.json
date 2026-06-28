@@ -1,0 +1,112 @@
+[
+  {
+    "id": "2048",
+    "title": "2048",
+    "category": "Puzzle",
+    "description": "Slide tiles and merge numbers to reach the 2048 tile! A highly addictive math-based brain-teaser.",
+    "instructions": "Use Arrow keys or WASD to slide tiles. When two tiles with the same number collide, they merge into one with double the value!",
+    "iframeTag": "<iframe src=\"https://gabrielecirulli.github.io/2048/\" style=\"width:100%; height:100%; border:none; background-color:#faf8ef;\" allowfullscreen=\"true\"></iframe>",
+    "icon": "Grid3X3",
+    "plays": 1240,
+    "rating": 4.8
+  },
+  {
+    "id": "hextris",
+    "title": "Hextris",
+    "category": "Arcade",
+    "description": "An intense, fast-paced puzzle game inspired by Tetris. Rotate the hexagon to match colored blocks before they reach the edge.",
+    "instructions": "Use Left and Right arrow keys (or A and D) to rotate the hexagon. Stack blocks and match 3 or more of the same color to clear them.",
+    "iframeTag": "<iframe src=\"https://hextris.github.io/hextris/\" style=\"width:100%; height:100%; border:none;\" allowfullscreen=\"true\"></iframe>",
+    "icon": "Hexagon",
+    "plays": 845,
+    "rating": 4.6
+  },
+  {
+    "id": "flappy-bird",
+    "title": "Flappy Bird",
+    "category": "Arcade",
+    "description": "The classic, ultra-challenging game of precise timing where you guide a flapping bird through retro green pipes.",
+    "instructions": "Click the screen, tap, or press Spacebar to flap the bird's wings. Avoid crashing into the pipes or falling to the ground!",
+    "iframeTag": "<iframe src=\"https://nebez.github.io/floppybird/\" style=\"width:100%; height:100%; border:none; background-color:#4ec0ca;\" allowfullscreen=\"true\"></iframe>",
+    "icon": "Bird",
+    "plays": 1920,
+    "rating": 4.4
+  },
+  {
+    "id": "pacman",
+    "title": "Google Pacman",
+    "category": "Classic",
+    "description": "Play the legendary retro arcade maze game. Guide Pacman, munch on yellow pellets, and avoid the colorful ghosts!",
+    "instructions": "Use Arrow keys to direct Pacman. Eat all dots in the maze to clear the level. Eat flashing Power Pellets to temporarily weaken and eat the ghosts.",
+    "iframeTag": "<iframe src=\"https://macek.github.io/google_pacman/\" style=\"width:100%; height:100%; border:none; background-color:#000000;\" allowfullscreen=\"true\"></iframe>",
+    "icon": "Gamepad2",
+    "plays": 2300,
+    "rating": 4.9
+  },
+  {
+    "id": "asteroids",
+    "title": "Asteroids Classic",
+    "category": "Classic",
+    "description": "Command a lone spaceship in a dangerous, floating asteroid field. Blast space rocks and dodge enemy saucers.",
+    "instructions": "Left/Right arrow keys (or A/D) to rotate. Up arrow (or W) to apply thrust. Spacebar to shoot laser cannons.",
+    "iframeTag": "<iframe src=\"https://d9f9.github.io/asteroids/\" style=\"width:100%; height:100%; border:none; background-color:#000000;\" allowfullscreen=\"true\"></iframe>",
+    "icon": "Rocket",
+    "plays": 710,
+    "rating": 4.5
+  },
+  {
+    "id": "trex",
+    "title": "Chrome Dino Run",
+    "category": "Arcade",
+    "description": "The famous offline retro runner. Speed across a prehistoric desert, leaping over cacti and dodging pterodactyls.",
+    "instructions": "Press Spacebar or Up Arrow key to start and jump. Press Down Arrow key to duck. Speed increases as you travel farther.",
+    "iframeTag": "<iframe src=\"https://arnellebalane.github.io/trex/\" style=\"width:100%; height:100%; border:none;\" allowfullscreen=\"true\"></iframe>",
+    "icon": "Zap",
+    "plays": 1560,
+    "rating": 4.7
+  },
+  {
+    "id": "tower-blocks",
+    "title": "Tower Stack",
+    "category": "Puzzle",
+    "description": "Align and stack moving construction blocks as high as you can. How tall can your architectural masterpiece get?",
+    "instructions": "Press Spacebar, click, or tap to drop the swinging building block onto the tower. Keep it centered; misalignments shrink your block!",
+    "iframeTag": "<iframe src=\"https://claus.github.io/tower_game/\" style=\"width:100%; height:100%; border:none;\" allowfullscreen=\"true\"></iframe>",
+    "icon": "Layers",
+    "plays": 980,
+    "rating": 4.3
+  },
+  {
+    "id": "sudoku",
+    "title": "Classic Sudoku",
+    "category": "Puzzle",
+    "description": "Train your brain with Sudoku, the classic grid-based mathematical number game with multiple difficulties.",
+    "instructions": "Fill the 9x9 grid. Each row, column, and 3x3 square must contain all digits from 1 to 9 exactly once.",
+    "iframeTag": "<iframe src=\"https://romansp.github.io/sudoku/\" style=\"width:100%; height:100%; border:none;\" allowfullscreen=\"true\"></iframe>",
+    "icon": "Calculator",
+    "plays": 430,
+    "rating": 4.2
+  },
+  {
+    "id": "local-snake",
+    "title": "Retro Snake (Built-In)",
+    "category": "Classic",
+    "description": "Our built-in neon snake game! Guided by smooth canvas frames and vibrant colors, this game is 100% unblocked and playable offline.",
+    "instructions": "Use Arrow keys or WASD to navigate. Eat glowing energy items to grow and increase score. Do not crash into walls or your own tail!",
+    "iframeTag": "LOCAL_SNAKE",
+    "icon": "Activity",
+    "plays": 3100,
+    "rating": 4.9
+  },
+  {
+    "id": "local-tictactoe",
+    "title": "Neon Tic-Tac-Toe",
+    "category": "Classic",
+    "description": "Play the timeless game of Tic-Tac-Toe natively on the site. Challenge our smart CPU AI or play local pass-and-play with a friend.",
+    "instructions": "Select your marker (X or O). Take turns placing symbols on the 3x3 board. Secure three in a row to win!",
+    "iframeTag": "LOCAL_TICTACTOE",
+    "icon": "XSquare",
+    "plays": 1820,
+    "rating": 4.7
+  }
+]
